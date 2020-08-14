@@ -31,15 +31,3 @@
 - [ ] [The Chapo Guide to Revolution: A Manifesto Against Logic, Facts, and Reason](https://www.goodreads.com/book/show/38531606-the-chapo-guide-to-revolution)
 
 - [ ] [By Any Means Necessary](https://www.goodreads.com/book/show/187220.By_Any_Means_Necessary)
-
-- [ ] []()
-
-- [ ] []()
-
-- [ ] []()
-
-- [ ] []()
-
-- [ ] []()
-
-- [ ] []()
